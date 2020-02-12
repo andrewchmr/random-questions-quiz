@@ -1,3 +1,8 @@
+Random Questions Quiz is simple app that takes 10 random questions from API (https://opentdb.com/api_config.php) with possible answers.
+
+If the answer is correct user gets 5 points. Enjoy!
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
